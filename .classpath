@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="C:/Users/israe/Downloads/ojdbc6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/israe/Downloads/reader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/workspace/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Israel/workspace/reader.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
